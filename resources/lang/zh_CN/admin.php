@@ -225,4 +225,6 @@ return [
         'minlength' => ':attribute 字符长度不能少于 :min。',
         'maxlength' => ':attribute 字符长度不能超出 :max。',
     ],
+    'questions'=>'问题',
+    'answers '=>'答案',
 ];

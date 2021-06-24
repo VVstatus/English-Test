@@ -1,43 +1,167 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a674ac66-ddd9-4ae1-9c5b-f384f15afe7f" name="Default Changelist" comment="" />
+    <list default="true" id="a674ac66-ddd9-4ae1-9c5b-f384f15afe7f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/composerJson.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/omx-edu.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/omx-edu.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Admin/routes.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Admin/routes.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2021_06_16_031505_create_question_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2021_06_16_031505_create_question_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2021_06_16_031521_create_answer_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2021_06_16_031521_create_answer_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2021_06_16_032334_create_test_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2021_06_16_032419_create_exam_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/lang/zh_CN/admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/lang/zh_CN/admin.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.env">
+        <entry file="file://$PROJECT_DIR$/app/Admin/Controllers/QuestionController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="1824">
+              <caret line="92" column="56" selection-start-line="92" selection-start-column="56" selection-end-line="92" selection-end-column="56" />
+              <folding>
+                <element signature="e#41#83#0#PHP" expanded="true" />
+                <element signature="e#670#1319#1#PHP" />
+                <marker date="1624506503917" expanded="true" signature="2603:2801" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/config/app.php">
+        <entry file="file://$PROJECT_DIR$/app/Admin/Controllers/AnswerController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="82" column="22" selection-start-line="82" selection-start-column="22" selection-end-line="82" selection-end-column="22" />
+            <state relative-caret-position="144">
+              <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/dcat/laravel-admin/src/Form/NestedForm.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="361" lean-forward="true" selection-start-line="361" selection-end-line="361" />
+              <folding>
+                <element signature="e#35#55#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/dcat/laravel-admin/src/Form.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="14688">
+              <caret line="636" column="24" selection-start-line="636" selection-start-column="24" selection-end-line="636" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/dcat/laravel-admin/resources/views/form/hasmanyembedstable.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="672">
+              <caret line="28" column="63" selection-start-line="28" selection-start-column="63" selection-end-line="28" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/dcat/laravel-admin/src/Form/Field/HasMany.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="13104">
+              <caret line="552" column="35" selection-start-line="552" selection-start-column="35" selection-end-line="552" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>-1禁用</find>
+      <find>post</find>
+      <find>store</find>
+      <find>de</find>
+      <find>ArrayField</find>
+      <find>add</find>
+      <find>allowCreate</find>
+      <find>viewClass</find>
+      <find>xinz</find>
+      <find>admin.new</find>
+      <find>relationName</find>
+      <find>option</find>
+      <find>telescope</find>
+      <find>gate</find>
+      <find>tele</find>
+      <find>___LA_KEY_____LA_KEY__</find>
+      <find>__LA_KEY__</find>
+      <find>replaceNestedFormIndex</find>
+      <find>新增</find>
+      <find>nestedIndex</find>
+      <find>remove</find>
+      <find>table</find>
+      <find>remove btn btn-white btn-sm pull-right</find>
+      <find>crea</find>
+      <find>create</find>
+      <find>save</find>
+      <find>viewMode</find>
+      <find>name</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/database/migrations/2021_06_16_031521_create_answer_table.php" />
+        <option value="$PROJECT_DIR$/app/Admin/Repositories/QuestionType.php" />
+        <option value="$PROJECT_DIR$/resources/lang/zh_CN/question-type.php" />
+        <option value="$PROJECT_DIR$/app/Models/QuestionType.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2021_06_16_031505_create_question_table.php" />
+        <option value="$PROJECT_DIR$/resources/lang/zh_CN/question.php" />
+        <option value="$PROJECT_DIR$/app/Admin/Controllers/QuestionTypeController.php" />
+        <option value="$PROJECT_DIR$/app/Admin/routes.php" />
+        <option value="$PROJECT_DIR$/app/Admin/Repositories/Question.php" />
+        <option value="$PROJECT_DIR$/app/Admin/Controllers/TestController.php" />
+        <option value="$PROJECT_DIR$/vendor/dcat/laravel-admin/src/Show/Field.php" />
+        <option value="$PROJECT_DIR$/dcat_admin_ide_helper.php" />
+        <option value="$PROJECT_DIR$/app/Admin/Forms/Setting.php" />
+        <option value="$PROJECT_DIR$/app/Admin/Actions/Form/QuestionAction.php" />
+        <option value="$PROJECT_DIR$/vendor/dcat/laravel-admin/src/Form/Field/ArrayField.php" />
         <option value="$PROJECT_DIR$/config/app.php" />
+        <option value="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" />
+        <option value="$PROJECT_DIR$/config/telescope.php" />
+        <option value="$PROJECT_DIR$/vendor/dcat/laravel-admin/src/Form/NestedForm.php" />
+        <option value="$PROJECT_DIR$/vendor/dcat/laravel-admin/src/Form/Field/MyEmbeds.php" />
+        <option value="$PROJECT_DIR$/vendor/dcat/laravel-admin/resources/views/form/hasmanytable.blade.php" />
+        <option value="$PROJECT_DIR$/vendor/dcat/laravel-admin/src/Form/Field/MyTable.php" />
+        <option value="$PROJECT_DIR$/vendor/dcat/laravel-admin/src/Widgets/Form.php" />
+        <option value="$PROJECT_DIR$/vendor/dcat/laravel-admin/src/Form/Field/EmbedsTable.php" />
+        <option value="$PROJECT_DIR$/vendor/dcat/laravel-admin/src/Form/Field/Table.php" />
+        <option value="$PROJECT_DIR$/vendor/dcat/laravel-admin/resources/views/form/hasmanymytable.blade.php" />
+        <option value="$PROJECT_DIR$/vendor/dcat/laravel-admin/src/Form/Field.php" />
+        <option value="$PROJECT_DIR$/vendor/dcat/laravel-admin/resources/views/form/templatetable.blade.php" />
+        <option value="$PROJECT_DIR$/resources/lang/zh_CN/admin.php" />
+        <option value="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
+        <option value="$PROJECT_DIR$/app/Models/Question.php" />
+        <option value="$PROJECT_DIR$/vendor/dcat/laravel-admin/src/Form.php" />
+        <option value="$PROJECT_DIR$/app/Admin/Controllers/QuestionController.php" />
+        <option value="$PROJECT_DIR$/vendor/dcat/laravel-admin/resources/views/form/hasmanyembedstable.blade.php" />
+        <option value="$PROJECT_DIR$/vendor/dcat/laravel-admin/src/Form/Field/HasMany.php" />
       </list>
     </option>
   </component>
@@ -150,54 +274,201 @@
       <path value="$PROJECT_DIR$/vendor/brick/math" />
       <path value="$PROJECT_DIR$/vendor/asm89/stack-cors" />
       <path value="$PROJECT_DIR$/vendor/fruitcake/laravel-cors" />
+      <path value="$PROJECT_DIR$/vendor/laravel/helpers" />
+      <path value="$PROJECT_DIR$/vendor/laravel/telescope" />
     </include_path>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1048" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="omx-edu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="omx-edu" type="462c0819:PsiDirectoryNode" />
+              <item name="English-Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="English-Test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="omx-edu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="omx-edu" type="462c0819:PsiDirectoryNode" />
+              <item name="English-Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="English-Test" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="omx-edu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="omx-edu" type="462c0819:PsiDirectoryNode" />
+              <item name="English-Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="English-Test" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="English-Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="English-Test" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Admin" type="462c0819:PsiDirectoryNode" />
+              <item name="Actions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="English-Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="English-Test" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Admin" type="462c0819:PsiDirectoryNode" />
+              <item name="Actions" type="462c0819:PsiDirectoryNode" />
+              <item name="Form" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="English-Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="English-Test" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Admin" type="462c0819:PsiDirectoryNode" />
+              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="English-Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="English-Test" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Admin" type="462c0819:PsiDirectoryNode" />
+              <item name="Repositories" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="English-Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="English-Test" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="English-Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="English-Test" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Providers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="English-Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="English-Test" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="English-Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="English-Test" type="462c0819:PsiDirectoryNode" />
               <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="omx-edu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="omx-edu" type="462c0819:PsiDirectoryNode" />
-              <item name="database" type="462c0819:PsiDirectoryNode" />
+              <item name="English-Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="English-Test" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="English-Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="English-Test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="English-Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="English-Test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="English-Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="English-Test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
+              <item name="zh_CN" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="English-Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="English-Test" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="English-Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="English-Test" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="dcat" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="English-Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="English-Test" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="dcat" type="462c0819:PsiDirectoryNode" />
+              <item name="laravel-admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="English-Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="English-Test" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="dcat" type="462c0819:PsiDirectoryNode" />
+              <item name="laravel-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="English-Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="English-Test" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="dcat" type="462c0819:PsiDirectoryNode" />
+              <item name="laravel-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="English-Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="English-Test" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="dcat" type="462c0819:PsiDirectoryNode" />
+              <item name="laravel-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="form" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="English-Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="English-Test" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="dcat" type="462c0819:PsiDirectoryNode" />
+              <item name="laravel-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="English-Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="English-Test" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="dcat" type="462c0819:PsiDirectoryNode" />
+              <item name="laravel-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Form" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/vendor/dcat/laravel-admin/resources/views/form" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\English-Test\database\migrations\wait" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\English-Test\vendor\dcat\laravel-admin\resources\views\form" />
+      <recent name="E:\English-Test\vendor\dcat\laravel-admin\src\Form\Field" />
+      <recent name="E:\English-Test\app\Admin\Controllers" />
+      <recent name="E:\English-Test\app\Admin\Repositories" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -228,20 +499,24 @@
       <option name="presentableId" value="Default" />
       <updated>1623809746181</updated>
       <workItem from="1623809747398" duration="1571000" />
+      <workItem from="1623823042354" duration="34002000" />
+      <workItem from="1624241215058" duration="1757000" />
+      <workItem from="1624324837793" duration="28205000" />
+      <workItem from="1624516428338" duration="597000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1571000" />
+    <option name="totallyTimeSpent" value="66132000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="npm" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6926346" visible="true" weight="0.21447721" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6926346" visible="true" weight="0.27833667" />
       <window_info id="Structure" order="1" sideWeight="0.30736545" side_tool="true" weight="0.21179625" />
       <window_info id="Favorites" order="2" sideWeight="0.50141644" side_tool="true" weight="0.20844504" />
-      <window_info anchor="bottom" id="Tinkerwell" />
+      <window_info id="npm" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.70963174" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -253,31 +528,395 @@
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.83711046" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3696884" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3696884" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
-      <window_info anchor="right" id="Api Debugger" />
+      <window_info anchor="bottom" id="Tinkerwell" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" weight="0.3297587" />
       <window_info anchor="right" id="leetcode" order="4" side_tool="true" />
+      <window_info anchor="right" id="Api Debugger" order="5" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/app/Admin/Controllers/AnswerController.php</url>
+          <line>17</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.env">
+    <entry file="file://$PROJECT_DIR$/app/Models/QuestionType.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="288">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2021_06_16_031505_create_question_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2021_06_16_031521_create_answer_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="19" column="39" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Routing/Router.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="150" column="26" selection-start-line="150" selection-start-column="22" selection-end-line="150" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/dcat/laravel-admin/src/Http/Controllers/AdminController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="736">
+          <caret line="148" selection-start-line="148" selection-end-line="151" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/dcat/laravel-admin/src/Contracts/Repository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="81" column="38" lean-forward="true" selection-start-line="81" selection-start-column="38" selection-end-line="81" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/dcat/laravel-admin/src/Repositories/Repository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="128" column="20" selection-start-line="128" selection-start-column="20" selection-end-line="128" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Answer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Admin/Controllers/QuestionTypeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1144">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/dcat/laravel-admin/src/Show/Field.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="410" lean-forward="true" selection-start-line="410" selection-end-line="427" selection-end-column="5" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#!!top" expanded="true" />
+            <element signature="e#65#71#0" expanded="true" />
+            <element signature="e#71#77#0" expanded="true" />
+            <element signature="n#style#0;n#b#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/dcat/laravel-admin/src/Show.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="332" column="20" selection-start-line="332" selection-start-column="20" selection-end-line="332" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Admin/Forms/Setting.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dcat_admin_ide_helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="169" column="64" selection-start-line="169" selection-start-column="64" selection-end-line="169" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/dcat/laravel-admin/src/Grid/Filter/Between.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="134" column="37" selection-start-line="134" selection-start-column="29" selection-end-line="134" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/dcat/laravel-admin/src/Form/Field/KeyValue.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Admin/Actions/Form/Question.php" />
+    <entry file="file://$PROJECT_DIR$/config/admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3408">
+          <caret line="194" column="25" selection-start-line="194" selection-start-column="25" selection-end-line="194" selection-end-column="25" />
+          <folding>
+            <element signature="e#58#64#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/dcat/laravel-admin/src/Form/Field/Button.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Collections/Collection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="29" column="38" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Providers/AppServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Providers/TelescopeServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/telescope.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-109">
+          <caret line="134" selection-start-line="134" selection-end-line="134" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/app.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="82" column="22" selection-start-line="82" selection-start-column="22" selection-end-line="82" selection-end-column="22" />
+        <state relative-caret-position="1402">
+          <caret line="177" selection-start-line="177" selection-end-line="177" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Admin/Actions/Form/QuestionAction.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-856">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/dcat/laravel-admin/src/Form/Field/ArrayField.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Admin/Controllers/TestController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+          <folding>
+            <element signature="e#41#65#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Admin/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="31" />
+          <folding>
+            <element signature="e#7#37#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/dcat/laravel-admin/resources/views/form/hasmanytable.blade——new.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/dcat/laravel-admin/resources/views/form/hasmanytable.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="95" column="58" lean-forward="true" selection-start-line="95" selection-start-column="58" selection-end-line="95" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/dcat/laravel-admin/resources/views/form/hasmany.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1528" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/dcat/laravel-admin/src/Form/Field/Embeds.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/dcat/laravel-admin/src/Form/Field/Table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" lean-forward="true" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/dcat/laravel-admin/src/Widgets/Form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="85" column="26" selection-start-line="85" selection-start-column="26" selection-end-line="85" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/dcat/laravel-admin/resources/views/form/hasmanytab.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="69" column="55" lean-forward="true" selection-start-line="69" selection-start-column="55" selection-end-line="69" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/lang/zh_CN/answer.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/lang/zh_CN/question.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/dcat/laravel-admin/src/Form/Field.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="1360" selection-start-line="1360" selection-end-line="1360" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/dcat/laravel-admin/src/Form/Field/EmbedsTable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/dcat/laravel-admin/resources/views/form/templatetable.blade.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="904" column="5" selection-start-line="904" selection-start-column="5" selection-end-line="904" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Question.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="584">
+          <caret line="29" column="48" selection-start-line="29" selection-start-column="48" selection-end-line="29" selection-end-column="48" />
+          <caret line="31" column="48" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
+          <caret line="34" column="48" selection-start-line="34" selection-start-column="48" selection-end-line="34" selection-end-column="48" />
+          <caret line="36" column="34" selection-start-line="36" selection-start-column="34" selection-end-line="36" selection-end-column="34" />
+          <caret line="36" column="72" selection-start-line="36" selection-start-column="72" selection-end-line="36" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Admin/Repositories/Question.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+          <folding>
+            <element signature="e#42#75#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/lang/zh_CN/admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="228" column="12" selection-start-line="228" selection-start-column="5" selection-end-line="228" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/dcat/laravel-admin/src/Traits/HasVariables.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Admin/Controllers/QuestionController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1824">
+          <caret line="92" column="56" selection-start-line="92" selection-start-column="56" selection-end-line="92" selection-end-column="56" />
+          <folding>
+            <element signature="e#41#83#0#PHP" expanded="true" />
+            <element signature="e#670#1319#1#PHP" />
+            <marker date="1624506503917" expanded="true" signature="2603:2801" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/dcat/laravel-admin/src/Form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14688">
+          <caret line="636" column="24" selection-start-line="636" selection-start-column="24" selection-end-line="636" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/dcat/laravel-admin/resources/views/form/hasmanyembedstable.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="28" column="63" selection-start-line="28" selection-start-column="63" selection-end-line="28" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/dcat/laravel-admin/src/Form/Field/HasMany.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13104">
+          <caret line="552" column="35" selection-start-line="552" selection-start-column="35" selection-end-line="552" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/dcat/laravel-admin/src/Form/NestedForm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="361" lean-forward="true" selection-start-line="361" selection-end-line="361" />
+          <folding>
+            <element signature="e#35#55#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Admin/Controllers/AnswerController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
         </state>
       </provider>
     </entry>

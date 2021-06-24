@@ -15,6 +15,9 @@ class CreateAnswerTable extends Migration
     {
         Schema::create('answer', function (Blueprint $table) {
             $table->id();
+            $table->integer('q_id')->comment('题目id');
+            $table->string('title')->comment('答案');
+            $table->boolean('is_correct')->comment('正确答案');
             $table->timestamps();
         });
     }
